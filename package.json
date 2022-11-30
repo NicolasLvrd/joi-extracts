@@ -1,0 +1,15 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extract.js",
+  "scripts": {
+    "start": "node extract.js"
+  },
+  "author": "Nicolas Levrard",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.12.1",
+    "xlsx": "^0.18.5"
+  }
+}
